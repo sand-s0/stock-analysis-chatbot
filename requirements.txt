@@ -1,0 +1,7 @@
+yfinance
+TA-Lib
+numpy
+requests
+textblob
+openai
+streamlit
